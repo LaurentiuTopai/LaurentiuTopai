@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/Z8b8wFC.gif" width="600">
-</p>
-
 <h1 align="center">🖤 Salut! Eu sunt Laurentiu</h1>
 <h3 align="center">Developer pasionat de C++, AI, CUDA și sisteme low-level</h3>
 
@@ -51,7 +47,7 @@
 
 ## 📫 Contact
 <p align="center">
-  <a href="mailto:laurentiutopai@gmail.com">
+  <a href="mailto:laurentiutopai2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/LaurentiuTopai">
@@ -59,9 +55,4 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://i.imgur.com/dZ7cWvr.gif" width="400">
-</p>
 
