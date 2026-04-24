@@ -1,58 +1,56 @@
-<!-- Banner -->
-<h1 align="center">🖤 Salut! Eu sunt Laurentiu</h1>
-<h3 align="center">Developer pasionat de C++, Java, Microservices și sisteme low-level</h3>
+<h1 align="center">Hi there, I'm Laurențiu! 👋</h1>
 
----
+<h3 align="center">Full-Stack Developer & Systems Architect | Defensive Engineering Enthusiast</h3>
 
-## 🧩 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,opencv,linux,mysql" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge"/>
+  Computer Engineering student passionate about building scalable backend architectures and robust security layers. From microservices with Spring Boot and Kafka to Linux Kernel packet interception, I build systems with a "Security by Design" mindset.
 </p>
 
----
-
-## ⚡ Despre Mine
-- 🔥 Lucrez intens cu **C/C++**, sisteme, memorie, threaduri și comunicare IPC  
-- 🤖 Construiesc proiecte AI (YOLOv8, dataset training, OpenCV)  
-- 🎮 Dezvolt **anti-cheat extern** (ESP, memory scanning, Direct2D overlay)  
-- 🧩 Urc nivelul prin proiecte complexe cu **CUDA**, **OpenGL**, **grafica 3D**, algoritmi și optimizări  
-- 🛠 Lucrez pe Linux, Jetson Nano, Windows  
-- 📘 Pasionat de DSA, grafuri, HPC, anti-cheat engineering, computer graphics  
-
----
-
-## 🚀 Proiecte Importante
-- 🎯 **Anti-Cheat Extern (CS2 & Unturned)** – ESP 2D, memory stealth, Direct2D overlay, FOV circle  
-- 🤖 **YOLOv8 Training System** – dataset propriu ~5000 imagini + augmentări avansate  
-- ⚙️ **Blue Lock Training Simulator** – Unreal Engine + C++ (concept sci-fi de antrenament)  
-- 🌄 **Terrain Generator** – OpenGL + algoritmi realiști, texturare inteligentă  
-- 🔌 **System Programming Projects** – pipe-uri, mutex, semafoare, shared memory, threaduri  
-- 🧭 **Vizualizator BFS / Dijkstra** – CUDA + interfață interactivă  
-
----
-
-## 📊 Statistici GitHub
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LaurentiuTopai&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=LaurentiuTopai&theme=radical&hide_border=true" />
-  <br/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentiuTopai&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📫 Contact
-<p align="center">
-  <a href="mailto:laurentiutopai2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/LaurentiuTopai">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/stefan-laurentiu-b03105275/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
+---
 
+### 🛠️ Tech Stack & Arsenal
+
+**Backend & Architecture** <br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Camunda](https://img.shields.io/badge/Camunda-000000?style=for-the-badge&logo=camunda&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Frontend** <br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Low-Level & Security** <br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats & Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaurentiuTopai&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentiuTopai&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaurentiuTopai/LaurentiuTopai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaurentiuTopai/LaurentiuTopai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LaurentiuTopai/LaurentiuTopai/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<p align="center"><i>"Make it work, make it right, make it fast."</i></p>
