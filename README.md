@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Laurențiu! 👋</h1>
+<h1 align="center">Hi there, I'm Laurențiu!</h1>
 
 <h3 align="center">Full-Stack Developer & Systems Architect | Defensive Engineering Enthusiast</h3>
 
