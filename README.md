@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">🖤 Salut! Eu sunt Laurentiu</h1>
-<h3 align="center">Developer pasionat de C++, AI, CUDA și sisteme low-level</h3>
+<h3 align="center">Developer pasionat de C++, Java, Microservices și sisteme low-level</h3>
 
 ---
 
