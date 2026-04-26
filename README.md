@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Laurentiu!</h1>
 
-<h3 align="center">Full-Stack Develope| Defensive Engineering Enthusiast</h3>
+<h3 align="center">Full-Stack Developer| Defensive Engineering Enthusiast</h3>
 
 <p align="center">
   Computer Engineering student passionate about building scalable backend architectures and robust security layers. From microservices with Spring Boot and Kafka to Linux Kernel packet interception, I build systems with a "Security by Design" mindset.
