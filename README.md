@@ -1,18 +1,3 @@
-<h1 align="center">Hi there, I'm Laurentiu!</h1>
-
-<h3 align="center">Full-Stack Developer| Defensive Engineering Enthusiast</h3>
-
-<p align="center">
-  Computer Engineering student passionate about building scalable backend architectures and robust security layers. From microservices with Spring Boot and Kafka to Linux Kernel packet interception, I build systems with a "Security by Design" mindset.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/stefan-laurentiu-b03105275/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
 
 ### 🛠️ Tech Stack & Arsenal
 
