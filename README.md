@@ -39,8 +39,7 @@
 ---
 
 <p align="center"><i>"Make it work, make it right, make it fast."</i></p>
-<p>
-                 ......                  ............. 
+......                  ............. 
             .....;;...                ................ 
          .......;;;;;/mmmmmmmmmmmmmm\/.................. 
        ........;;;mmmmmmmmmmmmmmmmmmm..................... 
@@ -52,12 +51,12 @@
 ....        ;;;n#.....|nmmmmn#.....#nmmmmm,l......... 
  ..          mmmn\.../nmmmmmmn\.../nmmmm,m,lll..... 
           /mmmmmmmmmmmmmmmmmmmmmmmmmmm,mmmm,llll.. 
-      /mmmmmmmmmmmmmmmmmmmmmmm\nmmmn/mmmmmmm,lll/ 
-   /mmmmm/..........\mmmmmmmmmmnnmnnmmmmmmmmm,ll 
-  mmmmmm|...........|mmmmmmmmmmmmmmmmmmmmmmmm,ll 
-  \mmmmmmm\......./mmmmmmmmmmmmmmmmmmmmmmmmm,llo 
-    \mmmmmmm\.../mmmmmmmmmmmmmmmmmmmmmmmmmm,lloo 
-      \mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm,ll/oooo 
+      /mmmmmmmmmmmmmmmmmmmmmmmmmmmmm\nmmmn/mmmmmmm,lll/ 
+   /mmmmm/..........\mmmmmmmmmmmmmmnnmnnmmmmmmmmm,ll 
+  mmmmmm|...........|mmmmmmmmmmmmmmmmmmmmmmmmmm,ll 
+  \mmmmmmm\......./mmmmmmmmmmmmmmmmmmmmmmmmmmm,llo 
+    \mmmmmmm\.../mmmmmmmmmmmmmmmmmmmmmmmmmmmm,lloo 
+      \mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm,ll/oooo 
          \mmmmmmmmmmll..;;;.;;;;;;/mmm,lll/oooooo\ 
                    ll..;;;.;;;;;;/llllll/ooooooooo 
                    ll.;;;.;;;;;/.llll/oooooooooo..o 
@@ -78,5 +77,3 @@
                /oo\X/oooo..ooooooooooooooooooo..oooooooooooo 
              /ooooooo..ooooo..oooooooooooooo.....ooooooooo... 
            /ooooo...ooooo.....oooooooooooo.......ooooooo.....o
-
-</p>
