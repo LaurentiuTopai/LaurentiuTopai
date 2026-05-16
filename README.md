@@ -39,41 +39,14 @@
 ---
 
 <p align="center"><i>"Make it work, make it right, make it fast."</i></p>
-......                  ............. 
-            .....;;...                ................ 
-         .......;;;;;/mmmmmmmmmmmmmm\/.................. 
-       ........;;;mmmmmmmmmmmmmmmmmmm..................... 
-     .........;;m/;;;;\mmmmmm/;;;;;\m...................... 
-  ..........;;;m;;mmmm;;mmmm;;mmmmm;;m...................... 
-..........;;;;;mmmnnnmmmmmmmmmmnnnmmmm\.................... 
-.........  ;;;;;n/#####\nmmmmn/#####\nmm\................. 
-.......     ;;;;n##...##nmmmmn##...##nmmmm\............. 
-....        ;;;n#.....|nmmmmn#.....#nmmmmm,l......... 
- ..          mmmn\.../nmmmmmmn\.../nmmmm,m,lll..... 
-          /mmmmmmmmmmmmmmmmmmmmmmmmmmm,mmmm,llll.. 
-      /mmmmmmmmmmmmmmmmmmmmmmmmmmmmm\nmmmn/mmmmmmm,lll/ 
-   /mmmmm/..........\mmmmmmmmmmmmmmnnmnnmmmmmmmmm,ll 
-  mmmmmm|...........|mmmmmmmmmmmmmmmmmmmmmmmmmm,ll 
-  \mmmmmmm\......./mmmmmmmmmmmmmmmmmmmmmmmmmmm,llo 
-    \mmmmmmm\.../mmmmmmmmmmmmmmmmmmmmmmmmmmmm,lloo 
-      \mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm,ll/oooo 
-         \mmmmmmmmmmll..;;;.;;;;;;/mmm,lll/oooooo\ 
-                   ll..;;;.;;;;;;/llllll/ooooooooo 
-                   ll.;;;.;;;;;/.llll/oooooooooo..o 
-                   ll;;;.;;;;;;..ll/ooooooooooo...oo 
-                   \;;;;.;;;;;..ll/ooooo...ooooo..oo\ 
-                 ;;;;;;;;;;;;..ll|oooo.....oooooooooo 
-                ;;;;;;.;;;;;;.ll/oooo.....ooooooo....\ 
-                ;;;;;.;;;;;;;ll/ooooooooooooo.....oooo 
-                 \;;;.;;;;;;/oooooooooooo.....oooooooo\ 
-                  \;;;.;;;;/ooooooooo.....ooooooooooooo 
-                    \;;;;/ooooooo.....ooooooooooo...ooo\ 
-                    |o\;/oooo.....ooooooooooooo......ooo 
-                    oooooo....ooooooooooooooooooo.....oo\ 
-                   oooo....oooooooooooooooooooooooo..oooo 
-                  ___.oooooooooooooo....ooooooooooooooooo\ 
-                 /XXX\oooooooooooo.....ooooooooooooooooooo 
-                 |XXX|ooooo.oooooo....ooooooooooooooooooooo 
-               /oo\X/oooo..ooooooooooooooooooo..oooooooooooo 
-             /ooooooo..ooooo..oooooooooooooo.....ooooooooo... 
-           /ooooo...ooooo.....oooooooooooo.......ooooooo.....o
+
+                _,)
+        _..._.-;-'
+     .-'     `(
+    /      ;   \
+   ;.' ;`  ,;  ;
+  .'' ``. (  \ ;
+ / f_ _L \ ;  )\
+ \/|` '|\/;; <;/
+((; \_/  (()       
+     "
