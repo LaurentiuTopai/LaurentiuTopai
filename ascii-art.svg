@@ -1,0 +1,51 @@
+<svg width="100%" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>ASCII Art</title>
+<desc>Decorative ASCII art for GitHub profile</desc>
+<style>
+text {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 11px;
+  fill: #58a6ff;
+  white-space: pre;
+}
+@media (prefers-color-scheme: light) {
+  text { fill: #0969da; }
+}
+</style>
+<text x="40" y="20">                 ......                  .............</text>
+<text x="40" y="31">            .....;;...                ................</text>
+<text x="40" y="42">         .......;;;;;/mmmmmmmmmmmmmm\/..................</text>
+<text x="40" y="53">       ........;;;mmmmmmmmmmmmmmmmmmm.....................</text>
+<text x="40" y="64">     .........;;m/;;;;\mmmmmm/;;;;;\m......................</text>
+<text x="40" y="75">  ..........;;;m;;mmmm;;mmmm;;mmmmm;;m......................</text>
+<text x="40" y="86">..........;;;;;mmmnnnmmmmmmmmmmnnnmmmm\....................</text>
+<text x="40" y="97">.........  ;;;;;n/#####\nmmmmn/#####\nmm\.................</text>
+<text x="40" y="108">.......     ;;;;n##...##nmmmmn##...##nmmmm\.............</text>
+<text x="40" y="119">....        ;;;n#.....|nmmmmn#.....#nmmmmm,l.........</text>
+<text x="40" y="130"> ..          mmmn\.../nmmmmmmn\.../nmmmm,m,lll.....</text>
+<text x="40" y="141">          /mmmmmmmmmmmmmmmmmmmmmmmmmmm,mmmm,llll..</text>
+<text x="40" y="152">      /mmmmmmmmmmmmmmmmmmmmmmm\nmmmn/mmmmmmm,lll/</text>
+<text x="40" y="163">   /mmmmm/..........\mmmmmmmmmmnnmnnmmmmmmmmm,ll</text>
+<text x="40" y="174">  mmmmmm|...........|mmmmmmmmmmmmmmmmmmmmmmmmmm,ll</text>
+<text x="40" y="185">  \mmmmmmm\......./mmmmmmmmmmmmmmmmmmmmmmmmmmm,llo</text>
+<text x="40" y="196">    \mmmmmmm\.../mmmmmmmmmmmmmmmmmmmmmmmmmmmm,lloo</text>
+<text x="40" y="207">      \mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm,ll/oooo</text>
+<text x="40" y="218">         \mmmmmmmmmmll..;;;.;;;;;;/mmm,lll/oooooo\</text>
+<text x="40" y="229">                   ll..;;;.;;;;;;/llllll/ooooooooo</text>
+<text x="40" y="240">                   ll.;;;.;;;;;/.llll/oooooooooo..o</text>
+<text x="40" y="251">                   ll;;;.;;;;;;..ll/ooooooooooo...oo</text>
+<text x="40" y="262">                   \;;;;.;;;;;..ll/ooooo...ooooo..oo\</text>
+<text x="40" y="273">                 ;;;;;;;;;;;;..ll|oooo.....oooooooooo</text>
+<text x="40" y="284">                ;;;;;;.;;;;;;.ll/oooo.....ooooooo....\</text>
+<text x="40" y="295">                ;;;;;.;;;;;;;ll/ooooooooooooo.....oooo</text>
+<text x="40" y="306">                 \;;;.;;;;;;/oooooooooooo.....oooooooo\</text>
+<text x="40" y="317">                  \;;;.;;;;/ooooooooo.....ooooooooooooo</text>
+<text x="40" y="328">                    \;;;;/ooooooo.....ooooooooooo...ooo\</text>
+<text x="40" y="339">                    |o\;/oooo.....ooooooooooooo......ooo</text>
+<text x="40" y="350">                    oooooo....ooooooooooooooooooo.....oo\</text>
+<text x="40" y="361">                   oooo....oooooooooooooooooooooooo..oooo</text>
+<text x="40" y="372">                  ___.oooooooooooooo....ooooooooooooooooo\</text>
+<text x="40" y="383">                 /XXX\oooooooooooo.....ooooooooooooooooooo</text>
+<text x="40" y="394">                 |XXX|ooooo.oooooo....ooooooooooooooooooooo</text>
+<text x="40" y="405">               /oo\X/oooo..ooooooooooooooooooo..oooooooooooo</text>
+</svg>
