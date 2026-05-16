@@ -39,3 +39,7 @@
 ---
 
 <p align="center"><i>"Make it work, make it right, make it fast."</i></p>
+
+<a href="https://github.com/LaurentiuTopai">
+  <img src="ascii-art.svg" alt="ASCII Art" />
+</a>
